@@ -65,12 +65,15 @@ Para mantener una organización clara y eficiente de mis repositorios, utilizo l
 - **Microservicios**: `TB-MS-NombreProyecto`
 - **Scripts**: `TB-SC-NombreProyecto`
 - **WebApps**: `TB-WA-NombreProyecto`
+- **Jars**:  `TB-JR-NombreProyecto`
 
 ### Personales (PR)
 - **Proyectos Generales**: `PR-PJ-NombreProyecto`
+- **Microservicios**: `PR-MS-NombreProyecto`
 - **WebApps**: `PR-WA-NombreProyecto`
 - **Backend**: `PR-BE-NombreProyecto`
 - **Frontend**: `PR-FE-NombreProyecto`
+- **Jars**:  `PR-JR-NombreProyecto`
 
 ### Aprendizaje (AP)
 - **Patrones de Diseño**: `AP-PD`
