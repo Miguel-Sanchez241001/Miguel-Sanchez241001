@@ -54,3 +54,39 @@
 </div>
 
 ###
+
+## Guía de Nomenclatura de Repositorios
+
+Para mantener una organización clara y eficiente de mis repositorios, utilizo la siguiente convención de nombres:
+
+### Trabajo (TB)
+- **Backend**: `TB-BE-NombreProyecto`
+- **Frontend**: `TB-FE-NombreProyecto`
+- **Microservicios**: `TB-MS-NombreProyecto`
+- **Scripts**: `TB-SC-NombreProyecto`
+- **WebApps**: `TB-WA-NombreProyecto`
+
+### Personales (PR)
+- **Proyectos Generales**: `PR-PJ-NombreProyecto`
+- **WebApps**: `PR-WA-NombreProyecto`
+- **Backend**: `PR-BE-NombreProyecto`
+- **Frontend**: `PR-FE-NombreProyecto`
+
+### Aprendizaje (AP)
+- **Patrones de Diseño**: `AP-PD`
+- **Sintaxis**: `AP-SX`
+- **Librerías**: `AP-LB-NombreLibrería`
+
+### Experimentos (EX)
+- **Librerías**: `EX-LB-NombreLibrería`
+- **Funcionalidades**: `EX-FC-NombreFuncionalidad`
+  
+### Documentación y Etiquetas
+
+Para cada repositorio, asegúrate de:
+- **Agregar un `README.md`** detallado que describa el proyecto, su propósito, y cómo configurarlo.
+- **Utilizar etiquetas (tags)** para especificar la tecnología, tipo de proyecto, y estado (Ejemplo: `Java`, `Backend`, `En desarrollo`).
+
+### Ejemplo de Estructura de Repositorio
+
+#### Repositorio: `TB-BE-InventorySystem`
