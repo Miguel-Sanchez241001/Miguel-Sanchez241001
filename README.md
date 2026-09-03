@@ -1,95 +1,84 @@
-<h1 align="left">Hola, soy Miguel 👋</h1>
+<h1 align="center">Hola, soy Miguel Sánchez 👋</h1>
 
-###
+<p align="center">
+  <strong>Backend Developer · Java & JVM · Microservicios · Cloud Native</strong>
+</p>
 
-<br clear="both">
+<p align="center">
+  Diseño y construyo soluciones backend robustas, mantenibles y observables para entornos empresariales.
+  Mi foco actual está en Java 21, Spring Boot, Quarkus y en el uso práctico de IA para mejorar el ciclo de desarrollo.
+</p>
 
-<h4 align="left">Soy desarrollador backend junior especializado en Java. Tengo experiencia en la creación y consumo de APIs, y utilizo Swagger para la documentación de las mismas, asegurando así su claridad y fácil mantenimiento. Aunque mi enfoque principal es el backend, también poseo conocimientos en React, lo que me permite entender y colaborar en proyectos con un enfoque más integral.<br><br>Mi objetivo es seguir creciendo como desarrollador, profundizando en tecnologías de backend y contribuyendo activamente a la creación de soluciones robustas y escalables.<br><br>🔭 Actualmente estoy trabajando en el Banco de la Nacion Peru en el area de sistemas.<br>🌱 Actualmente estoy aprendiendo Angular 17 y PL/SQL<br>👯 Busco colaborar en proyectos open sources.<br>🤔 Estoy buscando ayuda con un puesto de junior<br>📫 Cómo contactarme: +51 993 652 654<br>😄 Pronombres: he/el<br>⚡ Dato curioso: I like to program with coffee.☕</h4>
+## Sobre mí
 
-###
+- ☕ Desarrollo APIs y microservicios con **Java 21**, **Spring Boot** y **Quarkus**.
+- 🧩 Aplico **arquitectura hexagonal**, separación de responsabilidades y diseño orientado al dominio.
+- ☁️ Trabajo con **Docker**, **Kubernetes**, CI/CD y ejecutables nativos con Mandrel/GraalVM.
+- 🗄️ Integro soluciones con **PostgreSQL**, Oracle/PLSQL, Redis y mensajería con Kafka.
+- 🔐 Me interesan especialmente la seguridad, autenticación con JWT, observabilidad y resiliencia.
+- 🤖 Creo herramientas y flujos con agentes de IA para revisar código, probar, documentar y automatizar tareas de ingeniería.
+- 🏦 Tengo experiencia desarrollando e integrando sistemas en contextos empresariales y financieros.
+- 📚 Documento lo que aprendo y convierto procesos repetibles en guías, plantillas y herramientas reutilizables.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+## En qué estoy trabajando
 
-###
+Actualmente profundizo en:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-Sanchez241001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguel-Sanchez241001&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Miguel-Sanchez241001&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Miguel-Sanchez241001&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miguel-Sanchez241001&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+- Microservicios Java modernos y eficientes, tanto en JVM como nativos.
+- Arquitecturas cloud-native listas para operar en Kubernetes.
+- APIs seguras, observables y acompañadas de pruebas automatizadas.
+- Automatización del trabajo técnico mediante GitHub Actions y agentes de IA.
+- Documentación técnica verificable sobre Java, JVM y plataformas backend.
 
-###
+## Tecnologías
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Miguel-Sanchez241001/count.svg?"  />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+</p>
 
-###
+También trabajo con OpenAPI/Swagger, JUnit 5, Mockito, Testcontainers, Prometheus, Grafana, JWT, React y TypeScript.
 
-<div align="left">
-  <a href="sanchezsanchezmiguelivan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/miguelsanchezdev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+## Proyectos destacados
 
-###
+### [Quarkus Microservice Template](https://github.com/Miguel-Sanchez241001/quarkus-microservice-template)
 
-## Guía de Nomenclatura de Repositorios
+Plantilla para crear microservicios Quarkus con PostgreSQL, health checks, métricas, OpenAPI y compilación nativa automatizada mediante GitHub Actions y Mandrel.
 
-Para mantener una organización clara y eficiente de mis repositorios, utilizo la siguiente convención de nombres:
+### [Network Unblock](https://github.com/Miguel-Sanchez241001/network-unblock)
 
-### Trabajo (TB)
-- **Backend**: `TB-BE-NombreProyecto`
-- **Frontend**: `TB-FE-NombreProyecto`
-- **Microservicios**: `TB-MS-NombreProyecto`
-- **Scripts**: `TB-SC-NombreProyecto`
-- **WebApps**: `TB-WA-NombreProyecto`
-- **Jars**:  `TB-JR-NombreProyecto`
+Proyecto de diagnóstico y experimentación de redes con DNS-over-HTTPS, proxy local y análisis del tráfico TLS. Incluye implementaciones en Java 21 y Node.js, además de documentación técnica del proceso.
 
-### Personales (PR)
-- **Proyectos Generales**: `PR-PJ-NombreProyecto`
-- **Microservicios**: `PR-MS-NombreProyecto`
-- **WebApps**: `PR-WA-NombreProyecto`
-- **Backend**: `PR-BE-NombreProyecto`
-- **Frontend**: `PR-FE-NombreProyecto`
-- **Jars**:  `PR-JR-NombreProyecto`
+### [API Backend Personas](https://github.com/Miguel-Sanchez241001/api-backend-personas-tecsup)
 
-### Aprendizaje (AP)
-- **Patrones de Diseño**: `AP-PD`
-- **Sintaxis**: `AP-SX`
-- **Librerías**: `AP-LB-NombreLibrería`
+API REST con Java, Spring Boot, JPA y PostgreSQL para gestionar usuarios y personas, acompañada de una aplicación frontend en React.
 
-### Experimentos (EX)
-- **Librerías**: `EX-LB-NombreLibrería`
-- **Funcionalidades**: `EX-FC-NombreFuncionalidad`
-  
-### Documentación y Etiquetas
+## Mi forma de trabajar
 
-Para cada repositorio, asegúrate de:
-- **Agregar un `README.md`** detallado que describa el proyecto, su propósito, y cómo configurarlo.
-- **Utilizar etiquetas (tags)** para especificar la tecnología, tipo de proyecto, y estado (Ejemplo: `Java`, `Backend`, `En desarrollo`).
+Me gusta tratar el software como un sistema completo: requerimientos claros, arquitectura sencilla, código moderno, pruebas útiles, seguridad, observabilidad y documentación que permita a otra persona continuar el trabajo.
 
-### Ejemplo de Estructura de Repositorio
+Busco colaborar en proyectos de código abierto relacionados con Java, herramientas para desarrolladores, automatización e inteligencia artificial aplicada a la ingeniería de software.
 
-#### Repositorio: `TB-BE-InventorySystem`
+## Contacto
+
+📱 **+51 981 060 498**
+
+<p align="left">
+  <a href="mailto:sanchezsanchezmiguelivan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/miguelsanchezdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="tel:+51981060498"><img src="https://img.shields.io/badge/+51_981_060_498-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguel-Sanchez241001&locale=es&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Lenguajes más utilizados" />
+</p>
+
+<p align="center"><em>Buen software, café y aprendizaje continuo. ☕</em></p>
